@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sarah Shahzad<br>👀 I’m currently a Computer Science Student.<br>🌱 I’m currently learning Java, Javascript and SQL.<br>💬 Ask me about C++, HTML5, CSS3<br>📫 How to reach me: f24605008@nutech.edu.pk<br>💡 Fun Fact: "Code is my canvas, and every line is a brushstroke of innovation." 🎨💻
+👋 Hi, I’m Sarah Shahzad<br>👀 I’m currently a Computer Science Student.<br>🌱 I’m currently learning Python.<br>💬 Ask me about C++, HTML5, CSS3, Java and SQL.<br>📫 How to reach me: f24605008@nutech.edu.pk<br>💡 Fun Fact: "Code is my canvas, and every line is a brushstroke of innovation." 🎨💻
 
 
 ## 🌐 Socials:
